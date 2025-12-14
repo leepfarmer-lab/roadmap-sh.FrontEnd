@@ -1,0 +1,25 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f4f4f4;
+    margin: 100px;
+    border: rgb(0, 0, 0) 5px solid;
+    padding: 80px;
+   
+}
+.subJudul{
+    font-weight: bold;
+    color: rgb(31, 186, 14);
+}
+
+h3, h4{
+    font-weight: bold;
+    color: rgb(31, 186, 14);
+}
+.judul3{
+    font-weight: lighter;
+    font-size: larger;
+    color: royalblue;
+}
+.garisAtas{
+    border-top: 3px solid black;
+}
